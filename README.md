@@ -5,7 +5,7 @@
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/rotem.deri/)](https://www.facebook.com/rotem.deri/)
 
 Hi, I'm Rotem, a Software Engineer passionated about development and entrepreneurship.
-Experienced in creating Single Page Applications using the latest Web Technology such as React, Vue and Node. I Spend my spare time watching online courses, read and learning the newest frameworks released in order to expand my knowledge.
+Experienced in creating Single Page Applications using the latest Web Technology such as React and Node. I Spend my spare time watching online courses, read and learning the newest frameworks released in order to expand my knowledge.
 
 - :books: a Software Engineer Graduate (B.Sc).
 - :pushpin: Interests: Development, UX, and UI Design.
